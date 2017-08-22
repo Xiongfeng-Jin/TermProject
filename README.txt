@@ -1,3 +1,5 @@
+Run Driver.py
+
 Dependencies:
 	this program is running on the python 3.3 or above. use either pycharm or terminal to run this program.
 
